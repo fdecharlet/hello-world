@@ -1,4 +1,5 @@
 name: GitHub Actions Demo
+#name of the game
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
