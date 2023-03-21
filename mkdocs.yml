@@ -1,4 +1,6 @@
 theme:
   name: material
+   palette:
+    scheme: slate
 
 site_name: Florian Charlet
