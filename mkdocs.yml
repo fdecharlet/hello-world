@@ -13,5 +13,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+        
+   # Setting navigation to the page     
+  features:
+    - navigation.instant
 
 site_name: Florian Charlet
