@@ -12,7 +12,6 @@ h help:
 install:
 	pip install pip --upgrade
 	pip install -r requirements.txt
-	pip uninstall mkdocs
 	pip install mkdocs-material
 
 
