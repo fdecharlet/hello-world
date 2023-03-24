@@ -1,5 +1,5 @@
 theme:
-  name: material
+  name: mkdocs
   palette: 
 
     # Palette toggle for light mode
