@@ -1,21 +1,16 @@
-theme:
-  name: mkdocs
-  palette: 
+### Site metadata ###
 
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
+site_name: MkDocs Quickstart
+site_description: Starter template for a MkDocs docs site on GH Pages - including CI
+site_url: https://fdecharlet.github.io/hello-world/
 
-    # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-        
-   # Setting navigation to the page     
-  features:
-    - navigation.instant
+repo_url: https://github.com/fdecharlet/hello-world
+edit_uri: edit/master/docs/docs
 
-site_name: Florian Charlet
+### Build settings ###
+
+theme: readthedocs
+
+nav:
+  - Home: index.md
+
