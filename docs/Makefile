@@ -12,7 +12,7 @@ h help:
 install:
 	pip install pip --upgrade
 	pip install -r requirements.txt
-	pip install mkdocs-material
+	pip install mkdocs
 
 
 upgrade:
